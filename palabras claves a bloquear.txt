@@ -1,0 +1,101 @@
+序 号	URL	删 除
+1	100.64.0.0/10	
+2	10.0.0.0/8	
+3	192.168.0.0/16	
+4	172.16.0.0/12	
+5	ICMP_FLOOD	
+6	UDP_FLOOD	
+7	SYNC_FLOOD	
+8	UPDATE	
+9	SCAN	
+10	GREE_FLOOD	
+11	ATTACK	
+12	KILL	
+13	STOP	
+14	DDoS	
+15	UPLOAD	
+16	EXFIL	
+17	PONG	
+18	JOIN	
+19	PART	
+20	HTTP_GET	
+21	pool	
+22	wallet	
+23	stratum	
+24	monero	
+25	miner	
+26	FLOOD	
+27	C 2	
+28	HTTP_POS	
+29	HEADER_FLOOD	
+30	IP_FLOOD	
+31	SQL INJECTION	
+32	BOT	
+33	EXPLOIT	
+34	CRYPTOMINER	
+35	BOTNET	
+36	Command and Control	
+37	Credential stuffing	
+38	floods	
+39	Residential proxies	
+40	Ransom DDoS	
+41	HTTP DDoS	
+42	WAR	
+43	IPv6	
+44	SPOOFING	
+45	Trojan-Ransom.Win32	
+46	Trojan.Win32	
+47	Trojan.malware.Gen	
+48	Trojan-Ransom.Win32.PDF	
+49	Trojan-Ransom.Win32.HTTP	
+50	Trojan-Ransom.Win32.HTML	
+51	Trojan-Ransom.Win32.SCRIPT	
+52	ransomware.Win32.WannaCry.A	
+53	worm.VBS.ILOVEYOU	
+54	trojan.Banker.Win32.Emotet.C	
+55	HTTP FLOOD	
+56	HTTP BOT	
+57	API FLOOD	
+58	API ATTACK	
+59	API command and control	
+60	hacktool.Win64.Mimikatz.Ahackto	
+61	hacking	
+62	keylogger	
+63	trojan.keylogger	
+64	trojan.win32.keylogger.generic	
+65	attack.desktop	
+66	server attack	
+67	windows attack	
+68	tcp syn flood	
+69	udp flood	
+70	icmp flood	
+71	router attack	
+72	attack adsl+	
+73	hacking adsl+	
+74	c2 adsl+	
+75	DDoS adsl+	
+76	attack dns	
+77	Hacking dns	
+78	hacking web	
+79	attack tunnel	
+80	pishing	
+81	attack ramsonware	
+82	malware	
+83	spyware	
+84	rootkit	
+85	attack file	
+86	ransonware	
+87	trojan	
+88	malicius web	
+89	malicius adsl+	
+90	threat	
+91	dangerus	
+92	virus	
+93	Sanitize	
+94	Scrub	
+95	Strip	
+96	Virtual Patching	
+97	Scraping	
+98	DLP	
+99	Exfiltration	
+100	IOA	
