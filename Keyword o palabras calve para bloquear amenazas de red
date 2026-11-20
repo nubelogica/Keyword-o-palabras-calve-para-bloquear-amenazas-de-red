@@ -1,0 +1,427 @@
+	ICMP_FLOOD		
+	UDP_FLOOD		
+	SYNC_FLOOD		
+	UPDATE		
+	SCAN	
+	GREE_FLOOD	
+	ATTACK	
+	KILL	
+	STOP	
+	DDoS	
+	UPLOAD	
+	EXFIL	
+	PONG	
+	JOIN	
+	PART	
+	HTTP_GET	
+	pool	
+	wallet	
+	stratum	
+	monero	
+	miner	
+	FLOOD	
+	C 2	
+	HTTP_POS	
+	HEADER_FLOOD	
+	IP_FLOOD	
+	SQL INJECTION	
+	BOT	
+	EXPLOIT	
+	CRYPTOMINER	
+	BOTNET	
+	TLD	
+	Command and Control	
+	Credential stuffing	
+	floods	
+	Residential proxies	
+	Ransom DDoS	
+	HTTP DDoS	
+	WAR	
+	IPv6	
+	SPOOFING	
+	Trojan-Ransom.Win32	
+	Trojan.Win32	
+	Trojan.malware.Gen	
+	Trojan-Ransom.Win32.PDF	
+	Trojan-Ransom.Win32.HTTP	
+	Trojan-Ransom.Win32.HTML	
+	Trojan-Ransom.Win32.SCRIPT	
+	ransomware.Win32.WannaCry.A	
+	worm.VBS.ILOVEYOU	
+	trojan.Banker.Win32.Emotet.C	
+	HTTP FLOOD	
+	HTTP BOT	
+	API FLOOD	
+	API ATTACK	
+	API command and control	
+	hacktool.Win64.Mimikatz.Ahackto
+
+SteamRock
+PeterPoll
+CosmicPulse
+RedFlick
+YesOpcode
+PrimalOrchard
+FrozenVolcano
+CipherEmber
+ThornGate
+PolinRider
+BasaltLantern.A
+DarkCarbon
+AtomLoader.A
+CopperTube
+TeemLoad.A
+MantiKing.A
+ZooFang
+SilverCarbine
+NexilBreak
+PygmyHog
+EchoWiper
+GrimWiper
+ThornWiper
+AshWiper
+StoneFlare
+RogueClimb
+MintStone
+SneakyGrunt
+FossilBeacon
+FrostTamper
+EggStremeLoader
+AridWrangler
+MildTailor
+RumbleBread.A
+FireStream.A
+SlowGambler
+VeepLoad.A
+Tudimons
+ShroudDoor
+ShambleVortex
+ScatterBee
+FrostyMorph
+FrostySplash
+KaziBora
+NetFleek
+ShadowLink
+ShadowWraith
+RogueSpy
+TofuStation
+SilentRoute
+MachineKeyFinder
+LummaStealer
+Killweb
+Pikabot
+DarkGate
+DarkGateLoader
+Trojan.Win32.Agent
+Trojan-Spy.Win32.RedLine
+Trojan-PSW.Win32.Lumma
+Backdoor.Win32.Remcos
+Trojan-Ransom.Win32.LockBit
+Trojan-Dropper.Win32.Emotet
+Backdoor.Win32.AsyncRAT
+Trojan.Win32.AgentTesla
+Worm.Win32.Vobfus
+Trojan-Banker.Win32.QakBot
+Win32:Malware-gen
+Win64:Evo-gen
+Win32:RedLine-gen
+Win32:AgentTesla
+Win32:AsyncRAT
+Win32:Emotet-gen
+Win32:LockBit-gen
+Win32:Remcos-gen
+Win32:Lumma-gen
+Win32:SnakeKeylogger
+Win32:MalwareX-gen
+Win32:Evo-gen
+Win32:AgentTesla-gen
+Win32:RedLineStealer
+Win32:LockBit
+Win32:QakBot-gen
+Win32:AsyncRAT-gen
+Win32:FormBook-gen
+Win32:NjRAT-gen
+Win32:XWorm-gen
+Gen:Variant.Strictor
+Gen:Variant.Razy
+Gen:Variant.Zusy
+Gen:Variant.Kazy
+Trojan.GenericKD
+Gen:Variant.Barys
+Trojan.AgentTesla
+Trojan.RedLine
+Trojan.LummaStealer
+Ransom.LockBit
+W32/AgentTesla.A!tr
+W32/RedLine.A!tr.spy
+W32/Lumma.A!tr.pws
+W32/LockBit.A!tr.ransom
+W32/Emotet.A!tr.dldr
+W32/AsyncRAT.A!tr.bdr
+W32/Remcos.A!tr.bdr
+W32/FormBook.A!tr.spy
+W32/QakBot.A!tr
+W32/CobaltStrike.A!tr
+Generic.ml
+Win32.W32.AgentTesla
+Win32.W32.RedLineStealer
+Win32.W32.LummaStealer
+Win32.W32.LockBit
+Win32.W32.AsyncRAT
+Win32.W32.RemcosRAT
+Win32.W32.CobaltStrike
+Win32.W32.QakBot
+Win32.W32.DarkGate
+Troj/Agent-B
+Mal/Generic-S
+Troj/RedLine-A
+Troj/Lumma-A
+Troj/AgntTsl-A
+Troj/AsyncRat-A
+Troj/Remcos-A
+Troj/LockBit-A
+Troj/Qakbot-A
+Troj/FormBk-A
+Trojan.Win32.AgentTesla.A
+Trojan.Win32.RedLine.A
+Infostealer.Win32.Lumma.A
+Ransomware.Win32.LockBit.A
+RAT.Win32.AsyncRAT.A
+RAT.Win32.Remcos.A
+Backdoor.Win32.CobaltStrike.A
+Trojan.Win32.DarkGate.A
+Trojan.Win32.Pikabot.A
+Botnet.Win32.Emotet.A
+TR/Crypt.XPACK.Gen
+TR/Agent.gen
+TR/RedLine.Gen
+TR/Lumma.Gen
+TR/AgentTesla.Gen
+TR/AsyncRAT.Gen
+TR/Remcos.Gen
+TR/LockBit.Gen
+TR/FormBook.Gen
+TR/AD.Xworm.gen
+Win32/Agent.AA
+MSIL/Spy.AgentTesla
+MSIL/Spy.RedLine
+Win32/Spy.Lumma
+MSIL/Bladabindi
+MSIL/AsyncRAT
+Win32/Remcos
+Win32/Filecoder.LockBit
+Win32/Kryptik
+MSIL/Formbook
+TrojWare.Win32.Agent
+Malware@#
+TrojWare.Win32.AgentTesla
+TrojWare.Win32.RedLine
+TrojWare.Win32.Lumma
+TrojWare.Win32.AsyncRAT
+TrojWare.Win32.Remcos
+TrojWare.Win32.LockBit
+TrojWare.Win32.FormBook
+Backdoor.Win32.DarkGate
+Win32.Trojan.Agent
+Win32.Trojan.AgentTesla
+Win32.Trojan.RedLine
+Win32.Trojan.Lumma
+Win32.Backdoor.AsyncRAT
+Win32.Backdoor.Remcos
+Win32.Ransom.LockBit
+MSIL.Trojan.FormBook
+Trojan.Gen.2
+Heur.AdvML.B
+Infostealer.Redline
+Infostealer.Lumma
+Backdoor.AsyncRAT
+Backdoor.Remcos
+Ransom.Lockbit
+Trojan.Qakbot
+Trojan.DarkGate
+Trojan.Gen.MBT
+ML.Attribute.HighConfidence
+Trojan.Emotet
+Trojan.CobaltStrike
+Malware.AI
+Spyware.RedLineStealer
+Spyware.LummaStealer
+Spyware.FormBook
+Trojan.Pikabot
+Trojan.Spy.RedLine
+Trojan.Spy.Lumma
+Trojan.Spy.FormBook
+
+
+Aisuru
+BlackEnergy (BlackEnergy 2 y 3)
+Duqu
+EKANS (Snake Ransomware)
+Flame
+FrostyGoop
+Fuxnet
+Havex (Backdoor.Oldrea)
+Industroyer (CrashOverride)
+Industroyer2
+IOControl
+IronGate
+KillDisk
+LockerGoga
+MegaCortex
+Night Dragon
+PIPEDREAM (INCONTROLLER)
+PLC-Blaster
+Shamoon
+Stuxnet
+Triton (TRISIS / Tasman)
+VPNFilter
+
+AcidRain
+Aisuru
+BlackEnergy
+CobaltStrike
+Conti
+CosmicEnergy
+CrashOverride
+CyclopsBlink
+DarkSide
+Duqu
+EKANS
+Emotet
+Exaramel
+Flame
+FrostyGoop
+Fuxnet
+GreyEnergy
+HatMan
+Havex
+Incontroller
+Industroyer
+IOControl
+IronGate
+KillDisk
+LockBit
+LockerGoga
+MegaCortex
+NightDragon
+NotPetya
+Oldrea
+Petya
+PipeDream
+PLCBlaster
+PlugX
+Qakbot
+RobbinHood
+Ryuk
+ShadowPad
+Shamoon
+Snake
+Stuxnet
+Tasman
+TrickBot
+Trisis
+Triton
+VPNFilter
+Winnti
+
+序 号	URL	删 除
+1	100.64.0.0/10	
+2	10.0.0.0/8	
+3	192.168.0.0/16	
+4	172.16.0.0/12	
+5	ICMP_FLOOD	
+6	UDP_FLOOD	
+7	SYNC_FLOOD	
+8	UPDATE	
+9	SCAN	
+10	GREE_FLOOD	
+11	ATTACK	
+12	KILL	
+13	STOP	
+14	DDoS	
+15	UPLOAD	
+16	EXFIL	
+17	PONG	
+18	JOIN	
+19	PART	
+20	HTTP_GET	
+21	pool	
+22	wallet	
+23	stratum	
+24	monero	
+25	miner	
+26	FLOOD	
+27	C 2	
+28	HTTP_POS	
+29	HEADER_FLOOD	
+30	IP_FLOOD	
+31	SQL INJECTION	
+32	BOT	
+33	EXPLOIT	
+34	CRYPTOMINER	
+35	BOTNET	
+36	Command and Control	
+37	Credential stuffing	
+38	floods	
+39	Residential proxies	
+40	Ransom DDoS	
+41	HTTP DDoS	
+42	WAR	
+43	IPv6	
+44	SPOOFING	
+45	Trojan-Ransom.Win32	
+46	Trojan.Win32	
+47	Trojan.malware.Gen	
+48	Trojan-Ransom.Win32.PDF	
+49	Trojan-Ransom.Win32.HTTP	
+50	Trojan-Ransom.Win32.HTML	
+51	Trojan-Ransom.Win32.SCRIPT	
+52	ransomware.Win32.WannaCry.A	
+53	worm.VBS.ILOVEYOU	
+54	trojan.Banker.Win32.Emotet.C	
+55	HTTP FLOOD	
+56	HTTP BOT	
+57	API FLOOD	
+58	API ATTACK	
+59	API command and control	
+60	hacktool.Win64.Mimikatz.Ahackto	
+61	hacking	
+62	keylogger	
+63	trojan.keylogger	
+64	trojan.win32.keylogger.generic	
+65	attack.desktop	
+66	server attack	
+67	windows attack	
+68	tcp syn flood	
+69	udp flood	
+70	icmp flood	
+71	router attack	
+72	attack adsl+	
+73	hacking adsl+	
+74	c2 adsl+	
+75	DDoS adsl+	
+76	attack dns	
+77	Hacking dns	
+78	hacking web	
+79	attack tunnel	
+80	pishing	
+81	attack ramsonware	
+82	malware	
+83	spyware	
+84	rootkit	
+85	attack file	
+86	ransonware	
+87	trojan	
+88	malicius web	
+89	malicius adsl+	
+90	threat	
+91	dangerus	
+92	virus	
+93	Sanitize	
+94	Scrub	
+95	Strip	
+96	Virtual Patching	
+97	Scraping	
+98	DLP	
+99	Exfiltration	
+100	IOA	
